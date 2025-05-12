@@ -7,7 +7,7 @@ En este curso abordamos los siguientes temas:
 4. [Testing en Agilidad](#testing-en-agilidad)
 5. [Técnicas TDD y BDD](#técnicas-tdd-y-bdd)
 6. [Técnicas Diseño de Casos de Prueba](#técnicas-diseño-de-casos-de-prueba)
-7. [Clasificación de Pruebas, Selenium](#clasificación-de-pruebas,selenium)
+7. [Clasificación de Pruebas, Selenium](#clasificación-de-pruebas-selenium)
 
 ## TP
 En este trabajo se debía seleccionar una página web y aplicar todos los conocimientos adquiridos durante el curso para realizar pruebas sobre la misma. La entrega consistió en un documento formal que incluía una introducción, los objetivos del trabajo, el detalle de las pruebas realizadas y un archivo Excel donde se aplicaron distintas técnicas vistas en clase, tales como historias de usuario, clases de equivalencia, entre otras.
