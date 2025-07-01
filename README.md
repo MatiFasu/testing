@@ -10,7 +10,7 @@ En este curso abordamos los siguientes temas:
 7. [Clasificación de Pruebas, Selenium](#clasificación-de-pruebas-selenium)
 
 ## TP
-En este trabajo se debía seleccionar una página web y aplicar todos los conocimientos adquiridos durante el curso para realizar pruebas sobre la misma. La entrega consistió en un documento formal que incluía una introducción, los objetivos del trabajo, el detalle de las pruebas realizadas y un archivo Excel donde se aplicaron distintas técnicas vistas en clase, tales como historias de usuario, clases de equivalencia, entre otras.
+En este trabajo se seleccionó una página web con el objetivo de aplicar de manera práctica los conocimientos adquiridos a lo largo del curso en el área de pruebas de software. La entrega consistió en un documento formal que incluyó una introducción general al proyecto, los objetivos planteados, el detalle de las pruebas ejecutadas y un archivo Excel complementario. En este archivo se documentaron distintas técnicas vistas en clase, tales como historias de usuario, clases de equivalencia, particiones válidas e inválidas, entre otras.
 
 ## Historia de Usuario
 Son necesidades del cliente, define que hace el sistema.
